@@ -14,7 +14,7 @@ I’m a 16-year-old developer who loves **building things that actually work**�
 
 ## 🛠 Tech & Tools
 - **Web & Backend:** Node.js, Deno, Bun, HTML, CSS, **Vite, React, Tailwind, TypeScript, Express** ⚡  
-- **Systems & Embedded:** Bare-metal programming, microcontrollers, Linux (**Arch btw) 🐧  
+- **Systems & Embedded:** Bare-metal programming, microcontrollers, Linux (Arch btw) 🐧  
 - **My Toolbox:** Git, VS Code, **Neovim**, Alacritty, Tmux, Wireshark 🛠  
 
 ---
