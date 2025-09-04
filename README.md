@@ -31,5 +31,3 @@ I’m a 16-year-old developer who loves **building things that actually work**�
 - ill add it later
 
 ---
-
-*"I like to see how the machine really works, not just the interface."* ⚙️
