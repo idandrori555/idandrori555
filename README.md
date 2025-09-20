@@ -47,4 +47,4 @@ I enjoy **digging under the hood**, figuring out how stuff really works, and lea
 ---
 
 ## 📫 Connect with Me  
-*(Coming soon…)*  
+idandrori777@gmail.com
