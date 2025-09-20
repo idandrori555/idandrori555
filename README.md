@@ -46,14 +46,5 @@ I enjoy **digging under the hood**, figuring out how stuff really works, and lea
 
 ---
 
-
-## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=idandrori555&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idandrori555&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 📫 Connect with Me  
 *(Coming soon…)*  
