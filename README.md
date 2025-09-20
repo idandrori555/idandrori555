@@ -5,13 +5,6 @@ I enjoy **digging under the hood**, figuring out how stuff really works, and lea
 
 ---
 
-![Age](https://img.shields.io/badge/Age-16-blue?style=flat-square) 
-![Focus](https://img.shields.io/badge/Focus-Web%20%26%20Systems-green?style=flat-square) 
-![OS](https://img.shields.io/badge/Linux-Arch%20%7C%20Debian-orange?style=flat-square&logo=linux)  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=idandrori555.idandrori555)
-
----
-
 ## 💻 Languages & Skills  
 <p align="left">
   <!-- JavaScript / TypeScript -->
