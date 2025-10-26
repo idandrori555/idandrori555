@@ -26,19 +26,19 @@ I enjoy **digging under the hood**, figuring out how stuff really works, and lea
   <!-- DB's -->
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite" height="40" alt="DB's"/>
   <!-- Systems -->
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian" height="40" alt="Linux Distros"/>
+  <img src="https://skillicons.dev/icons?i=linux,arch" height="40" alt="Linux Distros"/>
   <!-- Toolbox -->
-  <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode" height="40" alt="Dev Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,neovim" height="40" alt="Dev Tools"/>
   <!-- Other -->
-  <img src="https://skillicons.dev/icons?i=discordjs,bots" height="40" alt="Dev Tools"/>
+  <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="Dev Tools"/>
 
 </p>
 
 ---
 
 ## 🌱 Currently Learning  
-- ⚙️ Low-level programming & embedded concepts  
-- 🔒 Secure & efficient **web apps** with modern JS/TS stacks  
+- ⚙️ Low-level programming & embedded  
+- 🔒 Secure & efficient **web apps** with modern JS/TS  
 - 🖥️ OS internals & memory management  
 - 🐳 Better Docker workflows  
 
