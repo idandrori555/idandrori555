@@ -22,13 +22,13 @@ I enjoy **digging under the hood**, figuring out how stuff really works, and lea
 ## 🛠 Tech & Tools  
 <p align="left">
   <!-- Web & Backend -->
-  <img src="https://skillicons.dev/icons?i=bun,deno,nodejs,react,tailwind,vite,express,docker" height="40" alt="Web Tools"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,react,tailwind,vite,express,docker" height="40" alt="Web Tools"/>
   <!-- DB's -->
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite" height="40" alt="DB's"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="40" alt="DB's"/>
   <!-- Systems -->
   <img src="https://skillicons.dev/icons?i=linux,arch" height="40" alt="Linux Distros"/>
   <!-- Toolbox -->
-  <img src="https://skillicons.dev/icons?i=git,github,neovim" height="40" alt="Dev Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vim,neovim,vscode" height="40" alt="Dev Tools"/>
   <!-- Other -->
   <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="Dev Tools"/>
 
