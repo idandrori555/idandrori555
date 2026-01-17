@@ -37,10 +37,10 @@ I enjoy **digging under the hood**, figuring out how stuff really works, and lea
 ---
 
 ## 🌱 Currently Learning  
-- ⚙️ Low-level & embedded
+- ⚙️ Low-level & embedded programming
 - 🔒 **web apps** with modern JS/TS
 - 🖥️ OS internals
-- 🐳 Better Docker workflows
+- 📈 Trading and algorithms
 
 ---
 
