@@ -28,7 +28,7 @@ I enjoy **digging under the hood**, figuring out how stuff really works, and lea
   <!-- Systems -->
   <img src="https://skillicons.dev/icons?i=linux,arch" height="40" alt="Linux Distros"/>
   <!-- Toolbox -->
-  <img src="https://skillicons.dev/icons?i=git,github,vim,neovim,vscode" height="40" alt="Dev Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,neovim,vscode" height="40" alt="Dev Tools"/>
   <!-- Other -->
   <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="Dev Tools"/>
 
