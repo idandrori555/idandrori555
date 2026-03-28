@@ -9,7 +9,7 @@ I enjoy **digging under the hood**, figuring out how stuff really works, and lea
 ## 💻 Languages
 <p align="left">
   <!-- JavaScript / TypeScript -->
-  <img src="https://skillicons.dev/icons?i=js,ts" height="40" alt="JavaScript, TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="JavaScript, TypeScript"/>
   <!-- Python -->
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <!-- Java & C# -->
