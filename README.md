@@ -6,6 +6,11 @@ I enjoy figuring out how stuff works, and learning something new every day.
 
 ---
 
+## 🌐 Portfolio
+Check out my portfolio [here](https://idandrori555.github.io/).
+
+---
+
 ## 💻 Languages
 <p align="left">
   <!-- JavaScript / TypeScript -->
