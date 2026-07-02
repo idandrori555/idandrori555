@@ -1,8 +1,8 @@
-# 👋 Hey, I’m Idan  
+# 👋 Hey, I’m Idan
 
 I’m a **software developer** who loves building things that *work*.
-from web apps to low-level systems.  
-I enjoy **digging under the hood**, figuring out how stuff really works, and learning something new every day. 🚀  
+from web apps to low-level systems.
+I enjoy figuring out how stuff works, and learning something new every day.
 
 ---
 
